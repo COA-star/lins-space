@@ -1,0 +1,16 @@
+/* Unified editorial type system: one elegant serif voice for all display text. */
+.brand i,
+h1, h1 em,
+h2, h2 em,
+.project-info h3 {
+  font-family: 'Playfair Display', 'Noto Serif SC', serif;
+  font-weight: 500;
+}
+
+.hero h1 {
+  line-height: .88;
+  letter-spacing: -.065em;
+}
+
+.hero h1 em,
+h2 em { font-style: normal; }

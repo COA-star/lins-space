@@ -1,0 +1,1 @@
+.cursor-glow{width:min(46vw,610px)!important;height:min(46vw,610px)!important;background:radial-gradient(circle,rgba(255,227,159,.35) 0,rgba(255,177,68,.2) 18%,rgba(225,102,25,.08) 42%,transparent 70%)!important;filter:blur(14px)!important;transition:opacity .25s ease}@media(max-width:700px){.cursor-glow{width:330px!important;height:330px!important}}
